@@ -1,4 +1,4 @@
-# InventoryAddOn
+# InteractionComponent
  Interaccion component/system with Outline implementation.
  (Using the default FPSCharacter UE project)
  
