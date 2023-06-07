@@ -5,6 +5,7 @@
  ![Captura de pantalla 2023-06-06 215355](https://github.com/DevSherman/InventoryAddOn/assets/10392153/8102eaeb-42c8-487e-8e7b-03ca0ae1774c)
  
  To implement this system only need add this:
+ 
  1-Create InteractionComponent in the FPSCharacter.
  
  ``` Interaction = CreateDefaultSubobject<UInteractionComponent>(TEXT("Interaction")); ```
