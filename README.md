@@ -13,17 +13,17 @@
  
  ``` Interaction = CreateDefaultSubobject<UInteractionComponent>(TEXT("Interaction")); ```
  
- 2-Set/Bind a key to create a funciton to implent this.
+ 2-Set/Bind a key to create a function to implent this.
  
  ```if (Interaction->Avaliable()) Interaction->Interact(); ```
  
- 3-Update Component in a TickFunction, this requiere a uscenecomponen to use as origin/pivot (in the most cases is the camera component)
+ 3-Update Component in a TickFunction, this requiere a uscenecomponent to use as origin/pivot (in the most cases is the camera component).
  
   ```Interaction->Update(FirstPersonCameraComponent);```
   
   4-Create Blueprints of the AItemActor class, you can edit it to use DynamicMeshes.
 
-To implement the Ouline Shader:
+To implement the Outline Shader:
 
 1-Set this configuration in the project settings.
 
