@@ -20,6 +20,8 @@
  3-Update Component in a TickFunction, this requiere a uscenecomponen to use as origin/pivot (in the most cases is the camera component)
  
   ```Interaction->Update(FirstPersonCameraComponent);```
+  
+  4-Create Blueprints of the AItemActor class, you can edit it to use DynamicMeshes.
 
 To implement the Ouline Shader:
 
