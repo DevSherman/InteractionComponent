@@ -4,6 +4,9 @@
  
  ![Captura de pantalla 2023-06-06 215355](https://github.com/DevSherman/InventoryAddOn/assets/10392153/8102eaeb-42c8-487e-8e7b-03ca0ae1774c)
  
+ ![Vídeo sin título ‐ Hecho con Clipchamp](https://github.com/DevSherman/InteractionComponent/assets/10392153/a1d16e03-3c62-40fe-a9b6-9f616be564e8)
+
+ 
  To implement this system only need add this:
  
  1-Create InteractionComponent in the FPSCharacter.
